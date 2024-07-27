@@ -1,2 +1,5 @@
 # github_practice
-Author-Aadit
+
+This is my Github Repository.
+<br>
+Author - Aadit Mistry
